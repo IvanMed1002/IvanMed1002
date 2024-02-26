@@ -4,14 +4,14 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Lima Charlie EDR Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Lima Charlie EDR Home Lab]
+- [Active Directory Home Lab]
 
 <h2>📺 Certification</h2>
 
-- [CompTIA Network +](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Network +]
 
-- [CompTIA Security +](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Security +]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
