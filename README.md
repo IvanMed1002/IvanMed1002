@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Lima Charlie EDR Home Lab]
-- [Active Directory Home Lab]
+- [Lima Charlie EDR Home Lab](https://github.com/IvanMed1002/IDS-IPSwithLimaCharlie)
+- [Active Directory Home Lab](https://github.com/IvanMed1002/IDS-IPSwithLimaCharlie)
 
 <h2>📺 Certification</h2>
 
