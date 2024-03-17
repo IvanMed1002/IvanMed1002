@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ivan! <br/>
   
-<b>PS C:\System Adminstartor\Part-time Cyber Security Studnet> </b>
+<b>PS C:\System Adminstartor\Part-time Cyber Security Student> </b>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
