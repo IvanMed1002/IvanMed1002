@@ -2,7 +2,7 @@
   
 <b>PS C:\System Adminstartor\Part-time Cyber Security Student> </b>
 
-<h2>👨‍💻 Cyber Security & System Admin Projects:</h2>
+<h2>👨‍💻 Cyber Security & System Admin Home Projects:</h2>
 
 - [Lima Charlie EDR Home Lab](https://github.com/IvanMed1002/IDS-IPSwithLimaCharlie)
 - [Active Directory Home Lab](https://github.com/IvanMed1002/Active-Directory-Lab)
