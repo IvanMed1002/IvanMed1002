@@ -6,6 +6,7 @@
 
 - [Lima Charlie EDR Home Lab](https://github.com/IvanMed1002/IDS-IPSwithLimaCharlie)
 - [Active Directory Home Lab](https://github.com/IvanMed1002/Active-Directory-Lab)
+- [Brute Force Attack Home Lab](https://github.com/IvanMed1002/BruteForceAttackProject)
 
 <h2>📺 Certification</h2>
 
